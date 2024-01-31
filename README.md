@@ -23,11 +23,11 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='![Web102PreWork](https://github.com/kroy2022/web102_prework/assets/128427783/8da6e112-031a-4ffb-abfa-7a9c89f57780)
-f' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src="https://drive.google.com/uc?id=12FQz2pMmgc9Uui9FzuS3Rp7-TLpTh-oQ&export=download" title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
+Microsoft Clipchamp
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
