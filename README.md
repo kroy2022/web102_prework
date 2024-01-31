@@ -1,22 +1,22 @@
-# WEB102 Prework - *Name of App Here*
+# WEB102 Prework - SeaMonster Crowdfunding                    
 
-Submitted by: **Your Name Here**
+Submitted by: Kevin Roy
 
 **Name of your app** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
 
-Time spent: **X** hours spent in total
+Time spent: 2:30 hours spent in total
 
 ## Required Features
 
 The following **required** functionality is completed:
 
-* [ ] The introduction section explains the background of the company and how many games remain unfunded.
-* [ ] The Stats section includes information about the total contributions and dollars raised as well as the top two most funded games.
-* [ ] The Our Games section initially displays all games funded by Sea Monster Crowdfunding
-* [ ] The Our Games section has three buttons that allow the user to display only unfunded games, only funded games, or all games.
+* [Y] The introduction section explains the background of the company and how many games remain unfunded.
+* [Y] The Stats section includes information about the total contributions and dollars raised as well as the top two most funded games.
+* [Y] The Our Games section initially displays all games funded by Sea Monster Crowdfunding
+* [Y] The Our Games section has three buttons that allow the user to display only unfunded games, only funded games, or all games.
 
 The following **optional** features are implemented:
-
+I added a button in the header that allows for a smooth scroll to the our games section. I also updated the CSS of the buttons so that the top button highlights yellow on hover and the button buttons highlight red.
 * [ ] List anything else that you can get done to improve the app functionality!
 
 ## Video Walkthrough
@@ -35,10 +35,10 @@ GIF created with ...
 ## Notes
 
 Describe any challenges encountered while building the app.
-
+Some Challenges I encountered while building the app came during hte optional additions. The button kept going to harshly into the new view so I had to dig on stack overflow to find the solution I did to make the behavior smooth. Also formatting the pictures in the div proved slightly challenging at the beginning. 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2023] [CodePath]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
