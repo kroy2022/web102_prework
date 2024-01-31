@@ -25,6 +25,9 @@ Here's a walkthrough of implemented features:
 
 <img src="https://drive.google.com/uc?id=12FQz2pMmgc9Uui9FzuS3Rp7-TLpTh-oQ&export=download](https://drive.google.com/file/d/12FQz2pMmgc9Uui9FzuS3Rp7-TLpTh-oQ/view?usp=sharing)" title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
+https://drive.google.com/file/d/12FQz2pMmgc9Uui9FzuS3Rp7-TLpTh-oQ/view?usp=sharing
+
+
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
 Microsoft Clipchamp
